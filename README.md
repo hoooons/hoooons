@@ -1,6 +1,5 @@
-# hoooons 👋
+## hoooons 👋
 
-<br>
 <br>
 
 ## 🛠️ Tech Stack 🛠️
