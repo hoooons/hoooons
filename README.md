@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center" style="font-size:50px">🛠️ Tech Stack 🛠️</h3>
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
