@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -30,6 +30,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
-<br><br>
+<br>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&animation=twinkling)
