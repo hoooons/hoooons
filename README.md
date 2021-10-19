@@ -1,8 +1,6 @@
 <div align="center">
   
 ## Hello, I'm hoooons 👋
-
-<br>
   
 ## 🛠️ Tech Stack 🛠️
 
